@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kwojtkowiak
-- 👀 I’m interested in python and game development. I'm taking my first steps currently.
-- 🌱 I’m learning python and programming basics at the moment. Next stop: frontend (js + angular)
+- 👀 I’m interested in python optimization, game development and most importantly - front end development. I'm taking my first steps currently.
+- 🌱 Basic python skills. Currently perfecting CSS and learning JS with Angular intensively.
 - 💞️ I’m currently helping on Voidborne game.
 - 📫 How to reach me - use the following mail: krzysztof.kw96@gmail.com
 
