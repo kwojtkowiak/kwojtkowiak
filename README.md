@@ -2,7 +2,7 @@
 - I’m interested in python optimization, game development and most importantly - front end development. I'm taking my first steps currently.
 - Basic python skills. Currently perfecting CSS and learning JS/Typescript with Angular and Tailwind intensively.
 - I’m currently helping on Voidborne game.
-- Proud intern @HusariaSolutions
+- Proud member @HusariaSolutions
 - How to reach me - use the following mail: krzysztof.kw96@gmail.com
 
 <!---
