@@ -1,6 +1,6 @@
 - Hi, I’m @kwojtkowiak - Junior Front End Developer and aspiring Fullstack Dev.
 - I’m interested in python optimization, game development and most importantly - front end development. I'm taking my first steps currently.
-- Python | Javascript | Typescript | React | SolidJS | TailwindCSS
+- Javascript | Typescript | React | SolidJS | Flutter | TailwindCSS
 - I’m currently helping on Voidborne game.
 - Proud member @HusariaSolutions
 - How to reach me - use the following mail: krzysztof.kw96@gmail.com
