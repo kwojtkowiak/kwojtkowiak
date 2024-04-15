@@ -1,4 +1,4 @@
-- Hi, I’m @kwojtkowiak - Junior Front End Developer and aspiring Fullstack Dev.
+- Hi, I’m @kwojtkowiak - Junior Software Developer and aspiring Fullstack Dev.
 - I’m interested in python optimization, game development and most importantly - front end development. I'm taking my first steps currently.
 - Javascript | Typescript | React | SolidJS | Flutter | TailwindCSS
 - I’m currently helping on Voidborne game.
